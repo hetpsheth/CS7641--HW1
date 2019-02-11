@@ -1,0 +1,15 @@
+- All code is written in Python.
+- To run the code, you will require Python3
+- Required packages: numpy, scikit-learn, pytables, pandas
+- The datasets are within this folder with the '.data' extension. (cancer.data and adult.data)
+- The code files are as follows:
+	- KNN.py
+	- SVM.py
+	- ANN.py
+	- Boosting.py
+	- Decision Tree.py
+	- helpers.py
+	- parse_data.py (It has already been compiled. No need to run in order to test.)
+- To run the code, you first run helpers.py using the 'python helpers.py' command in the terminal.
+- After that you can run any algorithm of your choice Eg: 'python KNN.py'
+- The output will be generated in the output folder. 
